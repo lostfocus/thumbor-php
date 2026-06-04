@@ -1,5 +1,5 @@
 {
-    "name": "beeyev/thumbor-php",
+    "name": "lostfocus/thumbor-php",
     "description": "Thumbor library for PHP",
     "license": "MIT",
     "type": "library",
@@ -11,20 +11,22 @@
             "name": "Alexander Tebiev",
             "email": "alexander.tebiev@gmail.com",
             "homepage": "https://github.com/beeyev/"
+        },
+        {
+            "name": "Dominik Schwind",
+            "email": "dschwind@lostfocus.de",
+            "homepage": "https://dominikschwind.com"
         }
     ],
-    "homepage": "https://github.com/beeyev/thumbor-php",
-    "support": {
-        "issues": "https://github.com/beeyev/thumbor-php/issues",
-        "source": "https://github.com/beeyev/thumbor-php/php.git",
-        "docs": "https://github.com/beeyev/thumbor-php/",
-        "rss": "https://github.com/beeyev/thumbor-php/releases.atom"
-    },
+    "homepage": "https://github.com/lostfocus/thumbor-php",
     "require": {
-        "php": "^7.0 || ^8.0"
+        "php": "^8.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^6 || ^7 || ^8 || ^9 || ^10"
+        "friendsofphp/php-cs-fixer": "^3.95",
+        "phpstan/phpstan": "^2.2",
+        "phpunit/phpunit": "^6 || ^7 || ^8 || ^9 || ^10",
+        "rector/rector": "^2.4"
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
