@@ -1,14 +1,12 @@
 # Thumbor PHP
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/beeyev/thumbor-php)](https://packagist.org/packages/beeyev/thumbor-php)
-[![Supported PHP Versions](https://img.shields.io/packagist/dependency-v/beeyev/thumbor-php/php.svg)](https://packagist.org/packages/beeyev/thumbor-php)
-[![Packagist Downloads](https://img.shields.io/packagist/dt/beeyev/thumbor-php)](https://packagist.org/packages/beeyev/thumbor-php)
-
-![beeyev_thumbor-php](https://github.com/beeyev/thumbor-php/assets/326840/5c4139d3-097a-4e13-b4c0-f9b1dfc53ae4)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/lostfocus/thumbor-php)](https://packagist.org/packages/lostfocus/thumbor-php)
+[![Supported PHP Versions](https://img.shields.io/packagist/dependency-v/lostfocus/thumbor-php/php.svg)](https://packagist.org/packages/lostfocus/thumbor-php)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/lostfocus/thumbor-php)](https://packagist.org/packages/lostfocus/thumbor-php)
 
 This is a fork of the [excellent Thumbor PHP by Alexander Tebiev](https://github.com/beeyev/thumbor-php), 
-a PHP implementation of URL generator for [Thumbor](http://www.thumbor.org/). It's mostly for myself to keep it up to date with
-new PHP versions.
+a PHP implementation of URL generator for [Thumbor](http://www.thumbor.org/).  
+It's mostly for myself to keep it up to date with new PHP versions.
 
 > This package has laravel support, and brings its conveniences like Facade and Service Provider.  
 > At the same time, it was made to be filly functional as framework-agnostic.
